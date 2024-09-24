@@ -1,6 +1,6 @@
 Olá! Sou Denilson Torres 
 
-- Minhas principais linguagens:
+- Principais Técnologias:
 
 <div style="display: inline_block"><br>
   <p>
