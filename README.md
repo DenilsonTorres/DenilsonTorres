@@ -3,9 +3,9 @@ Olá! Sou Denilson Torres
 - Minhas principais linguagens:
 
 <div style="display: inline_block"><br>
-  <p align="center">
+  <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,mysql"/>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,mysql"/>
     </a>
   </p>
 </div>
