@@ -5,7 +5,7 @@ Olá! Sou Denilson Torres
 <div style="display: inline_block"><br>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,js,mysql/>
+      <img src="https://skillicons.dev/icons?i=react,js,mysql"/>
     </a>
   </p>
 </div>
