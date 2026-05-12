@@ -3,7 +3,6 @@
 💻 Desenvolvedor Web focado em Front-End  
 🎯 Apaixonado por interfaces modernas, UI Design e experiências web  
 ⚡ Atualmente estudando React, React Native e APIs  
-🎸 Guitarrista nas horas vagas
 
 ---
 
@@ -50,11 +49,11 @@
 
 ## 🌐 Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilsontorres/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilsontorres)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denilson_tlima)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodenilsontorres@gmail.com)
 
 ---
 
@@ -63,10 +62,3 @@
 🚀 Desenvolvendo projetos com React e React Native  
 🎯 Focado em evolução no desenvolvimento Front-End  
 💡 Criando interfaces modernas e funcionais
-  ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/denilsontorres/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/denilson_tlima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatodenilsontorres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
