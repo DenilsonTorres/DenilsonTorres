@@ -20,12 +20,12 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="50" />
 
 </div>
 
 
 ---
+
 
 ## 📌 Sobre mim
 
@@ -37,24 +37,24 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-<a href="https://github.com/denilsontorres">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
----
 
 ## 🌐 Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilsontorres)
+<div align="left">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denilson_tlima)
+<a href="https://www.linkedin.com/in/denilsontorres">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodenilsontorres@gmail.com)
+<a href="https://www.instagram.com/denilson_tlima">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
+<a href="mailto:contatodenilsontorres@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 ## ⚡ Atualmente
