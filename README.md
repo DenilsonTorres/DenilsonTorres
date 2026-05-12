@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <div>
-<a href="https://github.com/seuusuario">
+<a href="https://github.com/denilsontorres">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -50,7 +50,7 @@
 
 ## 🌐 Contato
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/denilsontorres/")
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
 
